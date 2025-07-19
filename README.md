@@ -56,4 +56,6 @@ see the [Example_notebook.ipynb](Example_notebook.ipynb) *random seed has change
 1. This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For further inquiries, please contact [Zhang Shiqi](ZHANG3T3@uwindsor.ca).
+For further inquiries, please contact  
+• [Zhang Shiqi](mailto:ZHANG3T3@uwindsor.ca)  
+• [thennavan](mailto:thennavanak@gmail.com)
